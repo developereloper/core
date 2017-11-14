@@ -17,6 +17,7 @@ The dotnet/core repository is a good starting point for .NET Core.
 
 ## Getting help
 
+HALP
 * [File a .NET Core issue](https://github.com/dotnet/core/issues)
 * [File an ASP.NET Core issue](https://github.com/aspnet/home/issues)
 * [File an issue for other components](Documentation/core-repos.md)
